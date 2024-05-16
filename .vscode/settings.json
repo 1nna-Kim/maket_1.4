@@ -1,0 +1,10 @@
+{
+    "ecsstractor_tsx_port.destination": "tab",
+    "ecsstractor_tsx_port.element_separator": "__",
+    "ecsstractor_port.bem_nesting": true,
+    "ecsstractor_port.comment_style": "css",
+    "ecsstractor_port.destination": "tab",
+    "emmet.syntaxProfiles": {
+        
+    }
+}
